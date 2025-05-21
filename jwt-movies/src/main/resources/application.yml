@@ -1,3 +1,7 @@
 spring:
   application:
     name: jwt-movies
+server:
+  port: 9020
+jwt:
+  key: f13d5452-80c8-46ea-9b86-190e83ce0f48
